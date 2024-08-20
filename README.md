@@ -539,7 +539,7 @@ public class NameAnalyzer {
 
 ## Key Takeaways
 
-Congratulations! You've completed the Java Programming Bootcamp. Here's what you've learned:
+Congratulations! You've completed the lesson. Here's what you've learned:
 
 1. Basic programming concepts and Java syntax
 2. Variables and data types
